@@ -1,6 +1,6 @@
 pragma solidity 0.5.16;
 
-interface IBEP20 {
+interface BEP20 {
   /**
    * @dev Returns the amount of tokens in existence.
    */
